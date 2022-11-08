@@ -1,0 +1,4 @@
+[core]
+    remote = s3-dataset
+['remote "s3-dataset"']
+    url = s3://dvc-demo-mlops/dataset/
